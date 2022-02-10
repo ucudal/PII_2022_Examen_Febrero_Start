@@ -1,4 +1,4 @@
-La examen consiste en un cuestionario en webasignatura y un repositorio en GitHub con problemas a resolver. Este es el repositorio en GitHub.
+El examen consiste en un cuestionario en webasignatura y un repositorio en GitHub con problemas a resolver. Este es el repositorio en GitHub.
 
 Para resolver los problemas, deben abrir en Visual Studio Code las carpetas `p1`, `p2`, etc. contenidas en este repositorio. Por ejemplo, para resolver el primer problema deben abrir la carpeta `p1` con el comando **File|Open Folder**, para resolver el segundo la carpeta `p2`, y así sucesivamente.
 
